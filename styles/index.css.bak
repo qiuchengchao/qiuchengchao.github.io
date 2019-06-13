@@ -72,5 +72,5 @@ span
 }
 #img1 img
 {
-     box-shadow:0 0 5px #000000;
+     box-shadow: 4px 4px 20px #000000;
 }
