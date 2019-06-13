@@ -46,11 +46,31 @@ li
 
 #div1
 {
-     width: 62%;
+     width: 66%;
      margin:0 auto 0 auto;
      font-size:50px;
+	 
+}
+strong
+{
+   text-shadow: 12px 11px 12px #9900cc;
 }
 span
 {
      font-size:80px;
+}
+.images1
+{
+     margin:20px;
+     width:1663px;
+}
+
+#img1
+{
+     width:37%;
+     margin:0 auto 0 auto;
+}
+#img1 img
+{
+     box-shadow:0 0 5px #000000;
 }
