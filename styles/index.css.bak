@@ -7,7 +7,7 @@
 body
 {
   width:1663px;
-  background-color:#ffccff;
+  background-color:#ffcccc;
 }
 .toper
 {
@@ -59,7 +59,7 @@ span
 {
      font-size:80px;
 }
-.images1
+/*.images1
 {
      margin:20px;
      width:1663px;
@@ -73,4 +73,4 @@ span
 #img1 img
 {
      box-shadow: 4px 4px 20px #000000;
-}
+}*/

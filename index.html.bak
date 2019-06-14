@@ -23,13 +23,23 @@
 		 </div>
      </header>
 	 <div class="container">
-	     <div class="animated bounceInDown" id="div1"><strong>元气满满的一天 <span><em>爽爽</em></span>加油 老公爱你！！！！！</strong></div>
+	     <div class="animated bounceInDown" id="div1">
+		 <a href="#">
+		     <strong> 
+		         <span>
+			         <em>
+				         给老婆的一封信
+				     </em>
+			     </span>
+			</strong>
+		 </a>
+		</div>
      </div>
-	 <div class="images1">
+	 <!--<div class="images1">
 	     <div id="img1" class="animated bounceInUp">
 		     <img src="images/01.jpg" width="500" height="600">
 		 </div>
-	 </div>
+	 </div>!-->
     <script type="text/javascript" src="js/index.js"></script>
  </body>
 </html>
