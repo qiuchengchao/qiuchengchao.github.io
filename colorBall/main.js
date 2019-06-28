@@ -1,4 +1,4 @@
-const BALLS_COUNT = 10;
+const BALLS_COUNT = 50;
 const BALL_SIZE_MIN = 10;
 const BALL_SIZE_MAX = 20;
 const BALL_SPEED_MAX = 7;
